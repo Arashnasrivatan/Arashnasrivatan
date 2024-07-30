@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arashnasrivatan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arashnasrivatan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arashnasrivatan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -56,6 +56,6 @@
 
 ###
 
-<h4 align="left">🎂I'm 14 years old<br>💻 I've been learning programming for about a year and half<br>🏆 SILVER MEDAL OF 1IDEA1WORLD 🏆<br>MY WEBSITE : Arashnasri.com💎</h4>
+<h4 align="left">🎂I'm 14 years old<br>💻 I've been learning programming for about a year and half<br>🏆 SILVER MEDAL OF 1IDEA1WORLD 🏆<br>MY WEBSITE : <a href="https://arashnasri.com">Arashnasri.com</a>💎</h4>
 
 ###
