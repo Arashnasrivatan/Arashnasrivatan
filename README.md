@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! i'm Arashnasrivatan and I'm a Backend Developer from IRAN💻</h1>
+<h1 align="center">Hi <img height="32" src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/wave.gif"><br>i'm Arashnasrivatan and I'm a Backend Developer from IRAN <img height="32" src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/guy-with-laptop-1.gif"></h1>
 
 ###
 
