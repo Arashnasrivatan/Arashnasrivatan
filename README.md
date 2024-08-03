@@ -56,6 +56,6 @@
 
 ###
 
-<h4 align="left">🎂I'm 14 years old<br>💻 I've been learning programming for about a year and half<br>🏆 SILVER MEDAL OF 1IDEA1WORLD 🏆<br>💎 IFIA INV Membership 💎<br>MY WEBSITE : <a href="https://arashnasri.com">Arashnasri.com</a>💎</h4>
+<h4 align="left"><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/birthday-candles.gif" height="20"> I'm 14 years old<br>💻 I've been learning programming for about a year and half<br>🏆 SILVER MEDAL OF 1IDEA1WORLD 🏆<br><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/diamond.gif" height="20"> IFIA INV Membership <img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/diamond.gif" height="20"><br>MY WEBSITE : <a href="https://arashnasri.com">Arashnasri.com</a> <img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/diamond.gif" height="20"></h4>
 
 ###
