@@ -1,6 +1,12 @@
 <br clear="both">
 
-<h1 align="center">Hi <img height="32" src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/wave.gif"><br>i'm Arashnasrivatan and I'm a Backend Developer from IRAN <img height="32" src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/guy-with-laptop-1.gif"></h1>
+<h1 align="center">
+  Hi 
+  <img height="32" src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/wave.gif"><br>
+  <a href="https://arashnasri.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20DA3D&center=true&vCenter=true&width=250&height=35&lines=i'm+Arashnasrivatan;Backend+Developer+%F0%9F%92%8E" alt="Typing SVG" /></a>
+  <img height="35" src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/guy-with-laptop-1.gif">
+</h1>
+
 
 ###
 
