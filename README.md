@@ -28,6 +28,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="html5 logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind logo"  />
@@ -44,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="html5 logo"  />
 </div>
 
 ###
@@ -66,12 +68,34 @@
 
 ###
 
-<h4 align="left"><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/birthday-candles.gif" height="20"> I'm 15 years old<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="20" height="20" /> I've been learning programming for about a year and half<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="20" height="20" /> SILVER MEDAL OF 1IDEA1WORLD & BrightExpo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="20" height="20" /><br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="20" height="20" /> IFIA INV Membership <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="20" height="20" /><br>MY WEBSITE : <a href="https://arashnasri.com">Arashnasri.com</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="20" height="20" /></h4>
+### 🧠 About Me
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/birthday-candles.gif" height="24"></td>
+    <td><strong>Age:</strong></td>
+    <td>15 years old</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="24" height="24"></td>
+    <td><strong>Experience:</strong></td>
+    <td>Learning programming for about 2 years</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" width="24" height="24"></td>
+    <td><strong>Achievement:</strong></td>
+    <td>Silver Medal - 1IDEA1WORLD, BrightExpo & IFIA International INV Members Competition</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" width="24" height="24"></td>
+    <td><strong>Membership:</strong></td>
+    <td>IFIA INV Member <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" width="18" height="18"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" width="24" height="24"></td>
+    <td><strong>Website:</strong></td>
+    <td><a href="https://arashnasri.com" target="_blank">Arashnasri.com</a></td>
+  </tr>
+</table>
 
 ###
----
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oamgtvj45rre3qheri26bvha3a&count=1" alt="Alt text">
-</div>
-
