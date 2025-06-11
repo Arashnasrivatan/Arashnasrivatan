@@ -99,3 +99,9 @@
 </table>
 
 ###
+
+---
+
+<a href="https://nowpayments.io/donation?api_key=5NX3WBP-VRB42DC-KX161G5-D8PEZKX" target="_blank" rel="noreferrer noopener">
+   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+</a>
