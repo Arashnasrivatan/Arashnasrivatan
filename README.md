@@ -74,12 +74,12 @@
   <tr>
     <td><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/birthday-candles.gif" height="24"></td>
     <td><strong>Age:</strong></td>
-    <td>15 years old</td>
+    <td>16 years old</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="24" height="24"></td>
     <td><strong>Experience:</strong></td>
-    <td>Learning programming for about 2 years</td>
+    <td>Learning programming for about 3 years</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" width="24" height="24"></td>
