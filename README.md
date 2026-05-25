@@ -34,8 +34,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
@@ -55,7 +53,7 @@
   <a href="https://www.instagram.com/arashnasrivatan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/arash_aio" target="_blank">
+  <a href="https://t.me/itsDevArash" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="35" alt="telegram logo"  />
   </a>
 </div>
@@ -99,9 +97,3 @@
 </table>
 
 ###
-
----
-
-<a href="https://nowpayments.io/donation?api_key=5NX3WBP-VRB42DC-KX161G5-D8PEZKX" target="_blank" rel="noreferrer noopener">
-   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>
