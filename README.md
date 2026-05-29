@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/arashnasrivatan" target="_blank">
+  <a href="https://www.instagram.com/itsDevArash" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
   </a>
   <a href="https://t.me/itsDevArash" target="_blank">
